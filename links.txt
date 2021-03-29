@@ -1,0 +1,7 @@
+https://medium.com/appgambit/terraform-aws-vpc-with-private-public-subnets-with-nat-4094ad2ab331
+
+https://nickcharlton.net/posts/terraform-aws-vpc.html
+
+https://www.bogotobogo.com/DevOps/Terraform/Terraform-VPC-Subnet-ELB-RouteTable-SecurityGroup-Apache-Server-1.php
+
+https://www.edureka.co/community/77880/manage-multiple-regions-availability-zones-using-terraform
